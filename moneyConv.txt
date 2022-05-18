@@ -1,0 +1,9 @@
+A la fecha: Tue May 17 2022 19:42:29 GMT-0400 (Chile Standard Time):
+
+            Fue realizada cotización con los siguientes datos:
+
+            Cantidad de pesos a convertir: 19990 pesos.
+
+            Convertido a dolar da un total de:
+            
+            23.29891140 dolar.
